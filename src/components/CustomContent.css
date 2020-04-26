@@ -1,0 +1,78 @@
+
+@import '~antd/dist/antd.css';
+
+.content-size{
+    position: relative;
+    left: 10%;
+    height: 875px;
+    width: 980px;
+}
+
+.content-div {
+    width: 80%;
+    position: absolute;
+    top: 0;
+    background-color: rgba(0,0,0,0.5);
+    height: 100%;
+}
+
+.content-text {
+    text-align: center;
+    color: #fff;
+    font-size: 10em;
+    margin-top: 400px;
+    font-weight: bold;
+}
+
+.content-sub-text {
+    color: #fff;
+    font-size: small;
+    font-weight: bold;
+    margin-top: -100px;
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: center;
+}
+
+.content-play-div {
+    padding-top: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-play-logo {
+    float: left;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+}
+
+.content-play-text {
+    font-size: x-large;
+    font-weight: bold;
+    margin-left: 25px;
+    color: #fff;
+    margin-top: 10px;
+}
+
+.content-toast-div{
+    margin-top: 50px;
+    width: 80%;
+    height: 50px;
+    position: relative;
+    left: 50px;
+    background-color: blue;
+}
+
+.content-toast-text{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+    color: white;
+    font-size: small;
+    text-align: left;
+    font-weight: bold;
+}

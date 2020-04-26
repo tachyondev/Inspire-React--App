@@ -1,0 +1,5 @@
+@import '~antd/dist/antd.css';
+
+.layout-background {
+ background:url('http://i3.ytimg.com/vi/apsPeFRF3ro/maxresdefault.jpg') center/cover no-repeat black;
+}

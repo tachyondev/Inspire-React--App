@@ -1,0 +1,11 @@
+@import '~antd/dist/antd.css';
+
+
+.site-card-wrapper {
+  background: #1fc3f5;
+  text-align: center;
+  padding: 30px;
+}
+.site-card-spacing {
+  margin-top: 5px;
+}
